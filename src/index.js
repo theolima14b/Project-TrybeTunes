@@ -9,3 +9,7 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root'),
 );
+
+
+
+// Projeto realizado com a ajuda do Glauco Lomenha, Antônio Cardoso e Matheus Soares.
